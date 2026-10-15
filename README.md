@@ -1,6 +1,6 @@
 # Head-Tracked 3D First-Person Runner
 
-A Wolfenstein 3D-style first-person runner game that uses webcam head tracking to create stereoscopic depth illusion through motion parallax.
+A 3D-style first-person runner experience that uses webcam head tracking to create stereoscopic depth illusion through motion parallax.
 
 ## Requirements
 
